@@ -1,0 +1,14 @@
+
+
+.inner-tab{
+  display: flex;
+  flex-direction: row;
+}
+
+.tabs{
+  display: flex;
+  flex: 3;
+  align-items: center;
+  justify-content: center;
+  height: 40px;
+}
